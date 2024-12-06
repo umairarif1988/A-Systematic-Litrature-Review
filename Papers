@@ -1,4 +1,4 @@
-2024
+2024 Conference and Journal Papers
 1)	Chen, Jintai, et al. "Congenital heart disease detection by pediatric electrocardiogram based deep learning integrated with human concepts." Nature Communications 15.1 (2024): 976.
 2)	Pace, Danielle F., et al. "HVSMR-2.0: A 3D cardiovascular MR dataset for whole-heart segmentation in congenital heart disease." Scientific Data 11.1 (2024): 721.
 3)	KV, Suma, et al. "LightCardiacNet: light-weight deep ensemble network with attention mechanism for cardiac sound classification." Systems Science & Control Engineering 12.1 (2024): 2420912.
@@ -15,7 +15,7 @@
 14)	Jia, Weijie, et al. "ZCHSound: Open-Source ZJU Paediatric Heart Sound Database With Congenital Heart Disease." IEEE Transactions on Biomedical Engineering (2024).
 15)	Jiang, Xusheng, et al. "A deep learning-based method for pediatric congenital heart disease detection with seven standard views in echocardiography." World Journal of Pediatric Surgery 6.3 (2023).
 
-2023
+2023 Conference and Journal Papers
 1.	Tan, Weimin, et al. "Bayesian inference and dynamic neural feedback promote the clinical application of intelligent congenital heart disease diagnosis." Engineering 23 (2023): 90-102.
 2.	Sapitri, Ade Iriani, et al. "Deep learning-based real time detection for cardiac objects with fetal ultrasound video." Informatics in Medicine Unlocked 36 (2023): 101150.
 3.	Xu, Xiaowei, et al. "A clinically applicable AI system for diagnosis of congenital heart diseases based on computed tomography images." Medical Image Analysis 90 (2023): 102953.
@@ -26,7 +26,7 @@
 8.	Yang, Hongbo, et al. "Application of artificial intelligence-based auxiliary diagnosis in congenital heart disease screening." Anatolian Journal of Cardiology 27.4 (2023): 205.
 
 
-2022
+2022 Conference and Journal Papers
 1.	Liu, Jia, et al. "Deep learning-based computer-aided heart sound analysis in children with left-to-right shunt congenital heart disease." International journal of cardiology 348 (2022): 58-64.
 2.	Kavitha, D., and C. H. Renumadhavi. "An efficient multilayer deep detection perceptron (MLDDP) methodology for detecting testicular anomalies with or without congenital heart disease (TACHD)." The Journal of Supercomputing 78.3 (2022): 4057-4072.
 3.	Chang, Victor, et al. "An artificial intelligence model for heart disease detection using machine learning algorithms." Healthcare Analytics 2 (2022): 100016.
@@ -44,7 +44,7 @@
 15.	Sakai, Akira, et al. "Medical professional enhancement using explainable artificial intelligence in fetal cardiac ultrasound screening." Biomedicines 10.3 (2022): 551.
 16.	Edupuganti, Mounika, V. Rathikarani, and Kavitha Chaduvula. "A real and accurate ultrasound fetal imaging based heart disease detection using deep learning technology." International Journal of Integrated Engineering 14.7 (2022): 56-68.
 
-2021
+2021 Conference and Journal Papers
 
 1.	Lv, Jingjing, et al. "Artificial intelligence-assisted auscultation in detecting congenital heart disease." European Heart Journal-Digital Health 2.1 (2021): 119-124.
 2.	Mullen, McKay, et al. "Race and genetics in congenital heart disease: application of iPSCs, omics, and machine learning technologies." Frontiers in Cardiovascular Medicine 8 (2021): 635280.
@@ -60,7 +60,7 @@
 12.	Athalye, Chinmayee, et al. "Deep learning model for prenatal congenital heart disease (CHD) screening generalizes to the community setting and outperforms clinical detection." medRxiv (2023): 2023-03.
 13.	Oliveira, Jorge, et al. "The CirCor DigiScope dataset: from murmur detection to murmur classification." IEEE journal of biomedical and health informatics 26.6 (2021): 2524-2535.
 
-2020
+2020 Conference and Journal Papers
 1.	Wang, Jing, et al. "Automated interpretation of congenital heart disease from multi-view echocardiograms." Medical image analysis 69 (2021): 101942.
 2.	Deng, Muqing, et al. "Heart sound classification based on improved MFCC features and convolutional recurrent neural networks." Neural Networks 130 (2020): 22-32.
 3.	Karimi-Bidhendi, Saeed, et al. "Fully automated deep learning segmentation of pediatric cardiovascular magnetic resonance of patients with complex congenital heart diseases." Journal of cardiovascular magnetic resonance 22.1 (2020): 80.
@@ -73,7 +73,7 @@
 10.	XIE, Wen, et al. "Artificial intelligence in congenital cardiology." Chinese Journal of Clinical Thoracic and Cardiovascular Surgery (2020): 343-353.
 11.	Rani, Samta, and Sarfaraz Masood. "Predicting congenital heart disease using machine learning techniques." Journal of Discrete Mathematical Sciences and Cryptography 23.1 (2020): 293-303.
 
-2019
+2019 Conference and Journal Papers
 
 1.	Gong, Yuxin, et al. "Fetal congenital heart disease echocardiogram screening based on DGACNN: adversarial one-class classification combined with video transfer learning." IEEE transactions on medical imaging 39.4 (2019): 1206-1222.
 2.	Vullings, Rik. "Fetal electrocardiography and deep learning for prenatal detection of congenital heart disease." 2019 Computing in Cardiology (CinC). IEEE, 2019.
@@ -82,8 +82,8 @@
 5.	Arafati, Arghavan, et al. "Artificial intelligence in pediatric and adult congenital cardiac MRI: an unmet clinical need." Cardiovascular diagnosis and therapy 9.Suppl 2 (2019): S310.
 6.	Thompson, W. Reid, et al. "Artificial intelligence-assisted auscultation of heart murmurs: validation by virtual clinical trial." Pediatric cardiology 40 (2019): 623-629.
 
-2018
-
+2018 Conference and Journal Papers
+ 
 1.	Bozkurt, Baris, Ioannis Germanakis, and Yannis Stylianou. "A study of time-frequency features for CNN-based automatic heart sound classification for pathology detection." Computers in biology and medicine 100 (2018): 132-143.
 2.	Luo, Yanhong, et al. "Predicting congenital heart defects: A comparison of three data mining methods." PloS one 12.5 (2017): e0177811. (PloSOne)
 3.	Al Rahhal, Mohamad M., et al. "Convolutional neural networks for electrocardiogram classification." Journal of Medical and Biological Engineering 38 (2018): 1014-1025.
